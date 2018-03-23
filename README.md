@@ -8,8 +8,9 @@ alt tag
 How It's Made:
 Tech used: HTML, CSS, JavaScript, Phaser
 
-I introduced
+
 
 WIP to be updated soon
 //MUST BE RUN ON A SERVER//
 //CHROME MAY NOT WORK TRY OTHER BROWSERS//  
+credit: (Youtube: Gamesfromscratch ) 
